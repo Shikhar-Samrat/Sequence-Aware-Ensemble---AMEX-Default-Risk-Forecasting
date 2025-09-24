@@ -1,7 +1,3 @@
-Of course, here is a professional README file for your AMEX Default Risk Forecasting repository.
-
------
-
 # Sequence-Aware Ensemble for AMEX Default Risk Forecasting
 
 This project presents a sophisticated, sequence-aware ensemble model for predicting credit default, developed for the **American Express - Default Prediction Kaggle competition**. The solution leverages extensive feature engineering and combines the strengths of a Gradient Boosting model (LightGBM) and a deep learning model (Transformer-based Neural Network) to accurately forecast customer default risk.
